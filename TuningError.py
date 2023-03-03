@@ -1,0 +1,2 @@
+class TuningError(Exception):
+    pass
